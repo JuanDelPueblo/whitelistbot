@@ -1,0 +1,21 @@
+{
+  "author": "Cruise Productions",
+  "version": "1.0.0",
+  "description": "Client Bot: [JuanDelPueblo#1401]",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "better-sqlite3": "^6.0.1",
+    "discord.js": "^12.2.0",
+    "mojangjs": "^2.0.0",
+    "parse-ms": "^2.0.0",
+    "quick.db": "^7.0.0-b22",
+    "sqlite3": "^5.0.0"
+  },
+  "engines": {
+    "node": "8.x"
+  },
+  "license": "ISC"
+}
